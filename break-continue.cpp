@@ -25,3 +25,23 @@ while(1){
 
 }
 
+
+// continue statement 
+for(int p=1;p<=10;p++){
+
+  if(p==7){continue;}
+//it will skip 7. not go below line and return again to first line 
+cout<<p<<endl;
+}
+
+
+
+
+
+
+
+
+
+
+
+}
